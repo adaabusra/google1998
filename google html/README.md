@@ -1,0 +1,1 @@
+# CSS Ödev 2 için Google *1998* Anasayfa Tasarımı yapıldı. #
